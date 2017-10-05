@@ -1,0 +1,30 @@
+{
+  "name": "blend-netv0",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "BlendNetv0",
+  "author": {
+    "name": "v-mahich"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "firebase-admin": "^5.2.1",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6",
+    "request": "^2.81.0",
+    "request-progress": "^3.0.0",
+    "sequelize": "^4.7.5",
+    "sequelize-cli": "^2.8.0",
+    "serve-favicon": "^2.3.0",
+    "tedious": "^2.0.0"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  }
+}

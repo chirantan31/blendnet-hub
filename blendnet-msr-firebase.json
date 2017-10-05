@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blendnet-msr",
+  "private_key_id": "adb2d1edd8b319e8a24e567f6306a56c7268b50f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLd6uGQrwbokrH\n1zB/QPaoxo7MS67S5w6UGb4ZQr3aQ6UqKdf2tjg/zV0xsKVo5XyXWB1AwHfQHhgq\nfMopP7bBfvj5Z3QZtJMu2JepmjqANNUpOxX0ORsC0sX7K1PmL9q/MStJu0tMJPm0\n5DAOXKgi+MXmFVH5sCR3h6CBI219UdwCyvn+10wh8EIpU1fXX9HhcDb/OYFo9+bJ\ninIIEmt4I41lnBRo08l0MJKHgGbTSXX/uYUP4C96kryNk+EyDO+QCfp6qYwCFzVD\nO8EhuIbN5s5kYL5bpDCOljCpJhTyCGyhOZSzbbQvkp404/8hzDIQJDEmURolGnNl\nrnZRhsWbAgMBAAECggEAE1s7OQazpyKNea1NNekqVHKufN0wVwXYAbStovD4Z1sr\nGDOqq3pSjjAaNXl06vtCzit55CiYEJD99icwz+bGgWonNnBy/5g84YAfQYL+HY2p\nJiB/kK0EFrf4t+tumMXxsGGozBb8Bu6EYOlnPV6JBYN9x2TWceoINhgNgWuRskVO\n07XrX2ZcCwYTBWojloMdeA1ebArRuF8P4MoeP5Gr7J4Uqngv8eSMZHHgjkU7olUf\nsr7qjGgAP/7TDP5pJL10HTi0fT+AFNEBOkYYdvapQgh/lH3LfyU6xLFtqOvM5phC\nIJaJI6hwqXom4ul1qlPdg5Hd1OecQhnJ80vb9vmqBQKBgQD7mL93v2lrD4fCfHho\n6JWiqgZvlSCOsYnFH95MqUYTJ4bDHloWwrpeoOaqSCLc4i8UqbUh6ObmcU897wGv\npO4P3fNAi33rfZCgVtgzawfjvWun/a0fFEROuCUXwKLg/JxeuJ6vV1RpySD1yw/L\nMc86UaG20QS4YAbQhOPksM9xnwKBgQDPB0jHrA6+i3hmTeu7KE+zokR9JdhP65DC\niSgihnyLTNjVaGVB0Xz7P25YI7tsa7QJHmVeTmGyHk/0XzyfNaEEWfW1h8fMq1ty\nI0cSibHfPBS2MQD0v6wtGLe7RZYFJVIj38QpH0fioZ6si6o9bmEe8GlMq8UkdTMi\nwfAh8zKChQKBgQDND28mw3zBRLQq4NYm80JahOef9FTH2I3oe5PsuZ6ip/mfeFKG\n8ImD7PJz4T2A+FzVI4i9LZ1cPwgN+4pNRUi+5/CGL+sej4XcGUw3hEm25cEj948t\noJAX9OBOnrRiWaF9Vk4HrU7gtYxGqQ2jWGKFLtl2LqABQkrrkxRHZZB+EwKBgQC+\nrxvm5WATOwzjVcPY95EpiD0C8/ef7P3BYGk6G5rdByP0tBoHnHc8RzlQL2EyxKTn\nfTqquREc6PSFxa5lihTLmDxLPkvWBMLOhxWwSmktjv4YrVwPEff49XpNIBPEm5Jj\nfngD1E72vBwVGvLrcB4+S/sA5nlHUjeOPQj7jC+qrQKBgQDBNzfteCQa3QaE/Y1L\nE+vYyMSmSR0vuetfGCpasSlGqm10KcLcf1h6mdLcUQyuqWc1BGGIFh+aebZqUC8L\nzKnxkSsqJQ8BN3+WqyoTXAwZ9aqEUe6hHuE/6PxkfD4GpmlZZqv1cI4PJ2S8SLZb\n8Q8LYJYh2+gJXJPmtCx7xPN1wQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8koqp@blendnet-msr.iam.gserviceaccount.com",
+  "client_id": "117433304475647032542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8koqp%40blendnet-msr.iam.gserviceaccount.com"
+}
